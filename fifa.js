@@ -70,7 +70,7 @@
     const url = 'https://utas.external.s2.fut.ea.com/ut/auth';
     const body = {
       clientVersion: 1,
-      ds: "b5b2ac89d27122ac3bc737c6305cf1539b74178b098a052cded831005aa9815b/210",
+      ds: "e04a32296b5eab776c1ca51059e1f9e3914a4545cbf5767126361d11a22b0329/1c98",
       gameSku: "FFA21PCC",
       identification: {
         authCode: access_token,
@@ -122,4 +122,4 @@
   }
 
   createInterval();
-})('e1a6d835-7efb-47f9-861c-b66ccf20476a', 221174, 19000, 1000);
+})('93ae1f13-566e-4e83-ad3a-4c6dd8b9c766', 221174, 24000, 1000);
